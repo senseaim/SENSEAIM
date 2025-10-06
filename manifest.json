@@ -1,8 +1,7 @@
 {
   "allowed_build_hashes": [
-    "example_binary_hash_1",
-    "example_binary_hash_2"
+    "ba33f5651a36e411cc40c99378837fc5ae364d257285a8ad30c72eea5853253a"
   ],
-  "issued_at": "2025-01-06T00:00:00Z",
+  "issued_at": "2025-10-06T14:12:47.140608+00:00",
   "version": 1
 }
