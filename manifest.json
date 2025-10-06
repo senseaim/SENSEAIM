@@ -1,10 +1,8 @@
 {
-  "version": 1,
-  "product": "my_cool_app",
-  "issued_at": "2024-01-01T00:00:00Z",
   "allowed_build_hashes": [
-    "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef",
-    "fedcba0987654321fedcba0987654321fedcba0987654321fedcba0987654321",
-    "abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890"
-  ]
+    "example_binary_hash_1",
+    "example_binary_hash_2"
+  ],
+  "issued_at": "2025-01-06T00:00:00Z",
+  "version": 1
 }
