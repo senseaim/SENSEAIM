@@ -1,20 +1,8 @@
 {
-  "version": 1,
-  "product": "my_cool_app",
-  "salt": "c2FtcGxlX3NhbHRfZm9yX3Rlc3Rpbmc=",
-  "issued_at": "2024-01-01T00:00:00Z",
-  "entries": [
-    {
-      "hwid_hash": "a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456",
-      "user": "Test User",
-      "note": "Test license for development",
-      "expires_at": null
-    },
-    {
-      "hwid_hash": "deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef",
-      "user": "Another User",
-      "note": "Another test license",
-      "expires_at": "2024-12-31T23:59:59Z"
-    }
-  ]
+  "hwid_hashes": [
+    "example_hash_1",
+    "example_hash_2"
+  ],
+  "issued_at": "2025-01-06T00:00:00Z",
+  "version": 1
 }
