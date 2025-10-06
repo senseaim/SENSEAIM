@@ -1,8 +1,9 @@
 {
   "hwid_hashes": [
+    "1ae6ecefa7546f63c51498246fc38fb006bf72bde76e9765a7ad9e0e028db978",
     "example_hash_1",
     "example_hash_2"
   ],
-  "issued_at": "2025-01-06T00:00:00Z",
-  "version": 1
+  "issued_at": "2025-10-06T14:02:24.911884+00:00",
+  "version": 2
 }
